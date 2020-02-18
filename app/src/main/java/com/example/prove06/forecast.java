@@ -11,6 +11,7 @@ import com.google.gson.Gson;
 import java.util.HashMap;
 import java.util.Map;
 
+// ANITA'S GIT TEST FOR TEAM ACTIVITY: FEEL FREE TO DELETE THIS!!!
 
 public class forecast implements Runnable {
 
